@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resource_file type="PackedScene" subresource_count="23" version="2.0" version_name="Godot Engine v2.0.stable.official">
+	<ext_resource path="res://scenes/main-menu/main-menu.gd" type="Script" index="0"></ext_resource>
+	<ext_resource path="res://fonts/mic10.fnt" type="Font" index="8"></ext_resource>
+	<ext_resource path="res://fonts/mic12.fnt" type="Font" index="7"></ext_resource>
+	<ext_resource path="res://scenes/main-menu/mm-frame.png" type="Texture" index="9"></ext_resource>
+	<ext_resource path="res://sounds/mm_theme.ogg" type="AudioStream" index="10"></ext_resource>
+	<ext_resource path="res://sounds/btn_click_1.wav" type="Sample" index="11"></ext_resource>
+	<ext_resource path="res://scenes/main-menu/btn-m3tron-normal.png" type="Texture" index="14"></ext_resource>
+	<ext_resource path="res://scenes/main-menu/btn-m3tron-hover.png" type="Texture" index="15"></ext_resource>
+	<ext_resource path="res://scenes/main-menu/btn-pztron-normal.png" type="Texture" index="16"></ext_resource>
+	<ext_resource path="res://scenes/main-menu/btn-gltron-normal.png" type="Texture" index="12"></ext_resource>
+	<ext_resource path="res://scenes/main-menu/btn-gltron-hover.png" type="Texture" index="13"></ext_resource>
+	<ext_resource path="res://scenes/main-menu/btn-pztron-hover.png" type="Texture" index="17"></ext_resource>
+	<ext_resource path="res://scenes/main-menu/btn-artron-normal.png" type="Texture" index="18"></ext_resource>
+	<ext_resource path="res://scenes/main-menu/btn-artron-hover.png" type="Texture" index="19"></ext_resource>
+	<ext_resource path="res://scenes/sub-scenes/zones-display/zones_display.scn" type="PackedScene" index="1"></ext_resource>
+	<ext_resource path="res://scenes/sub-scenes/console/console.scn" type="PackedScene" index="2"></ext_resource>
+	<ext_resource path="res://scenes/sub-scenes/btn_achive/btn_achive.scn" type="PackedScene" index="4"></ext_resource>
+	<ext_resource path="res://scenes/sub-scenes/radar/radar.scn" type="PackedScene" index="6"></ext_resource>
+	<ext_resource path="res://scenes/sub-scenes/btn_options/btn_options.scn" type="PackedScene" index="3"></ext_resource>
+	<ext_resource path="res://scenes/sub-scenes/btn_stat/btn_stat.scn" type="PackedScene" index="5"></ext_resource>
+	<resource type="Animation" path="local://2">
+		<string name="resource/name"> "init" </string>
+		<real name="length"> 1 </real>
+		<bool name="loop"> False </bool>
+		<real name="step"> 0.1 </real>
+
+	</resource>
+	<resource type="SampleLibrary" path="local://1">
+		<dictionary name="samples/btn_click_1" shared="false">
+			<string> "db" </string>
+			<real> 0 </real>
+			<string> "pitch" </string>
+			<real> 1 </real>
+			<string> "sample" </string>
+			<resource  external="11">  </resource>
+		</dictionary>
+
+	</resource>
+	<main_resource>
+		<dictionary name="_bundled" shared="false">
+			<string> "conn_count" </string>
+			<int> 0 </int>
+			<string> "conns" </string>
+			<int_array  len="0"> 				 </int_array>
+			<string> "editable_instances" </string>
+			<array  len="0" shared="false">
+			</array>
+			<string> "names" </string>
+			<string_array  len="101">
+				<string> "MM" </string>
+				<string> "script/script" </string>
+				<string> "__meta__" </string>
+				<string> "Node2D" </string>
+				<string> "anim" </string>
+				<string> "playback/process_mode" </string>
+				<string> "playback/default_blend_time" </string>
+				<string> "root/root" </string>
+				<string> "anims/init" </string>
+				<string> "playback/active" </string>
+				<string> "playback/speed" </string>
+				<string> "blend_times" </string>
+				<string> "autoplay" </string>
+				<string> "AnimationPlayer" </string>
+				<string> "stars" </string>
+				<string> "transform/pos" </string>
+				<string> "transform/scale" </string>
+				<string> "config/amount" </string>
+				<string> "config/lifetime" </string>
+				<string> "config/half_extents" </string>
+				<string> "params/direction" </string>
+				<string> "params/spread" </string>
+				<string> "params/linear_velocity" </string>
+				<string> "params/spin_velocity" </string>
+				<string> "params/orbit_velocity" </string>
+				<string> "params/gravity_direction" </string>
+				<string> "params/gravity_strength" </string>
+				<string> "params/radial_accel" </string>
+				<string> "params/tangential_accel" </string>
+				<string> "params/damping" </string>
+				<string> "params/initial_angle" </string>
+				<string> "params/initial_size" </string>
+				<string> "params/final_size" </string>
+				<string> "params/hue_variation" </string>
+				<string> "params/anim_speed_scale" </string>
+				<string> "params/anim_initial_pos" </string>
+				<string> "randomness/hue_variation" </string>
+				<string> "Particles2D" </string>
+				<string> "zone-display" </string>
+				<string> "console" </string>
+				<string> "btn_option" </string>
+				<string> "btn_achive" </string>
+				<string> "btn_stat" </string>
+				<string> "btn_pedia" </string>
+				<string> "lbl_achives" </string>
+				<string> "margin/left" </string>
+				<string> "margin/top" </string>
+				<string> "margin/right" </string>
+				<string> "margin/bottom" </string>
+				<string> "focus/ignore_mouse" </string>
+				<string> "focus/stop_mouse" </string>
+				<string> "size_flags/horizontal" </string>
+				<string> "custom_fonts/font" </string>
+				<string> "custom_colors/font_color" </string>
+				<string> "text" </string>
+				<string> "align" </string>
+				<string> "percent_visible" </string>
+				<string> "lines_skipped" </string>
+				<string> "max_lines_visible" </string>
+				<string> "Label" </string>
+				<string> "lbl_options" </string>
+				<string> "lbl_stat" </string>
+				<string> "lbl_tipedia" </string>
+				<string> "lbl_zones" </string>
+				<string> "frame" </string>
+				<string> "texture" </string>
+				<string> "Sprite" </string>
+				<string> "mm_theme" </string>
+				<string> "stream/stream" </string>
+				<string> "stream/play" </string>
+				<string> "stream/loop" </string>
+				<string> "stream/volume_db" </string>
+				<string> "stream/autoplay" </string>
+				<string> "stream/paused" </string>
+				<string> "stream/loop_restart_time" </string>
+				<string> "stream/buffering_ms" </string>
+				<string> "StreamPlayer" </string>
+				<string> "sounds" </string>
+				<string> "params/volume_db" </string>
+				<string> "params/pitch_scale" </string>
+				<string> "params/attenuation/min_distance" </string>
+				<string> "params/attenuation/max_distance" </string>
+				<string> "params/attenuation/distance_exp" </string>
+				<string> "config/polyphony" </string>
+				<string> "config/samples" </string>
+				<string> "config/pitch_random" </string>
+				<string> "SamplePlayer2D" </string>
+				<string> "btn_zones" </string>
+				<string> "size_flags/vertical" </string>
+				<string> "alignment" </string>
+				<string> "ButtonGroup" </string>
+				<string> "btn_gltron" </string>
+				<string> "toggle_mode" </string>
+				<string> "click_on_press" </string>
+				<string> "textures/normal" </string>
+				<string> "textures/pressed" </string>
+				<string> "textures/hover" </string>
+				<string> "TextureButton" </string>
+				<string> "btn_m3tron" </string>
+				<string> "btn_pztron" </string>
+				<string> "btn_artron" </string>
+			</string_array>
+			<string> "node_count" </string>
+			<int> 22 </int>
+			<string> "node_paths" </string>
+			<array  len="0" shared="false">
+			</array>
+			<string> "nodes" </string>
+			<int_array  len="520"> 				-1, -1, 3, 0, -1, 2, 1, 0, 2, 1, 0, 0, 0, 13, 4, -1, 8, 5, 2, 6, 3, 7, 4, 8, 5, 9, 6, 10, 7, 11, 8, 12, 9, 0, 0, 0, 37, 14, -1, 22, 15, 10, 16, 11, 17, 12, 18, 13, 19, 14, 20, 15, 21, 16, 22, 15, 23, 15, 24, 15, 25, 15, 26, 15, 27, 17, 28, 15, 29, 15, 30, 15, 31, 7, 32, 13, 33, 7, 34, 7, 35, 15, 36, 7, 0, 0, 0, 2147483647, 38, 18, 1, 15, 19, 0, 0, 0, 2147483647, 39, 20, 1, 15, 21, 0, 0, 0, 2147483647, 40, 22, 1, 15, 23, 0, 0, 0, 2147483647, 41, 24, 1, 15, 25, 0, 0, 0, 2147483647, 42, 26, 1, 15, 27, 0, 0, 0, 2147483647, 43, 28, 1, 15, 29, 0, 0, 0, 59, 44, -1, 14, 45, 30, 46, 31, 47, 32, 48, 33, 49, 6, 50, 6, 51, 34, 52, 35, 53, 36, 54, 37, 55, 2, 56, 7, 57, 38, 58, 39, 0, 0, 0, 59, 60, -1, 14, 45, 40, 46, 31, 47, 41, 48, 33, 49, 6, 50, 6, 51, 34, 52, 35, 53, 36, 54, 42, 55, 2, 56, 7, 57, 38, 58, 39, 0, 0, 0, 59, 61, -1, 14, 45, 43, 46, 44, 47, 45, 48, 46, 49, 6, 50, 6, 51, 34, 52, 35, 53, 36, 54, 47, 55, 2, 56, 7, 57, 38, 58, 39, 0, 0, 0, 59, 62, -1, 14, 45, 48, 46, 49, 47, 50, 48, 51, 49, 6, 50, 6, 51, 34, 52, 35, 53, 36, 54, 52, 55, 2, 56, 7, 57, 38, 58, 39, 0, 0, 0, 59, 63, -1, 14, 45, 53, 46, 54, 47, 55, 48, 56, 49, 6, 50, 6, 51, 34, 52, 57, 53, 36, 54, 58, 55, 2, 56, 7, 57, 38, 58, 39, 0, 0, 0, 66, 64, -1, 3, 15, 59, 65, 60, 2, 61, 0, 0, 0, 76, 67, -1, 8, 68, 62, 69, 63, 70, 6, 71, 15, 72, 63, 73, 63, 74, 15, 75, 64, 0, 0, 0, 86, 77, -1, 8, 78, 15, 79, 7, 80, 7, 81, 65, 82, 7, 83, 2, 84, 66, 85, 15, 0, 0, 0, 90, 87, -1, 8, 47, 67, 48, 67, 49, 63, 50, 6, 51, 34, 88, 34, 89, 38, 2, 68, 0, 17, 0, 97, 91, -1, 11, 47, 69, 48, 70, 49, 63, 50, 6, 51, 34, 88, 34, 92, 6, 93, 6, 94, 71, 95, 72, 96, 72, 0, 17, 0, 97, 98, -1, 12, 46, 70, 47, 69, 48, 73, 49, 63, 50, 6, 51, 34, 88, 34, 92, 6, 93, 6, 94, 74, 95, 75, 96, 75, 0, 17, 0, 97, 99, -1, 12, 46, 73, 47, 69, 48, 76, 49, 63, 50, 6, 51, 34, 88, 34, 92, 6, 93, 6, 94, 77, 95, 78, 96, 78, 0, 17, 0, 97, 100, -1, 13, 45, 79, 46, 80, 47, 81, 48, 82, 49, 63, 50, 6, 51, 34, 88, 34, 92, 6, 93, 6, 94, 83, 95, 84, 96, 84, 0 </int_array>
+			<string> "variants" </string>
+			<array  len="85" shared="false">
+				<resource  external="0">  </resource>
+				<dictionary  shared="false">
+					<string> "__editor_plugin_screen__" </string>
+					<string> "2D" </string>
+					<string> "_edit_lock_" </string>
+					<bool> True </bool>
+				</dictionary>
+				<int> 1 </int>
+				<real> 5 </real>
+				<node_path> ".." </node_path>
+				<resource  resource_type="Animation" path="local://2">  </resource>
+				<bool> True </bool>
+				<real> 1 </real>
+				<array  len="0" shared="false">
+				</array>
+				<string> "" </string>
+				<vector2> 257.297, 456.905 </vector2>
+				<vector2> 0.68963, 0.716361 </vector2>
+				<int> 32 </int>
+				<real> 3 </real>
+				<vector2> 200, 200 </vector2>
+				<real> 0 </real>
+				<real> 30 </real>
+				<real> 100 </real>
+				<resource  external="1">  </resource>
+				<vector2> 73.5413, 163.885 </vector2>
+				<resource  external="2">  </resource>
+				<vector2> 163.169, 484.037 </vector2>
+				<resource  external="3">  </resource>
+				<vector2> 282.948, 615.097 </vector2>
+				<resource  external="4">  </resource>
+				<vector2> 52.57, 614.995 </vector2>
+				<resource  external="5">  </resource>
+				<vector2> 244.347, 823.913 </vector2>
+				<resource  external="6">  </resource>
+				<vector2> 282.839, 749.106 </vector2>
+				<real> 54 </real>
+				<real> 597 </real>
+				<real> 263 </real>
+				<real> 610 </real>
+				<int> 2 </int>
+				<resource  external="7">  </resource>
+				<color> 0.47451, 0.976471, 1, 1 </color>
+				<string> "lbl_achives" </string>
+				<int> 0 </int>
+				<int> -1 </int>
+				<real> 284 </real>
+				<real> 493 </real>
+				<string> "lbl_options" </string>
+				<real> 55 </real>
+				<real> 730 </real>
+				<real> 264 </real>
+				<real> 743 </real>
+				<string> "lbl_stat" </string>
+				<real> 287 </real>
+				<real> 729 </real>
+				<real> 496 </real>
+				<real> 742 </real>
+				<string> "lbl_tipedia" </string>
+				<real> 427 </real>
+				<real> 173 </real>
+				<real> 506 </real>
+				<real> 186 </real>
+				<resource  external="8">  </resource>
+				<string> "lbl_zones" </string>
+				<vector2> 273.938, 481.573 </vector2>
+				<resource  external="9">  </resource>
+				<dictionary  shared="false">
+					<string> "_edit_lock_" </string>
+					<bool> True </bool>
+				</dictionary>
+				<resource  external="10">  </resource>
+				<bool> False </bool>
+				<int> 500 </int>
+				<real> 2048 </real>
+				<resource  resource_type="SampleLibrary" path="local://1">  </resource>
+				<real> 40 </real>
+				<dictionary  shared="false">
+					<string> "_editor_collapsed" </string>
+					<bool> True </bool>
+				</dictionary>
+				<real> 86 </real>
+				<real> 56 </real>
+				<resource  external="12">  </resource>
+				<resource  external="13">  </resource>
+				<real> 112 </real>
+				<resource  external="14">  </resource>
+				<resource  external="15">  </resource>
+				<real> 168 </real>
+				<resource  external="16">  </resource>
+				<resource  external="17">  </resource>
+				<real> 423 </real>
+				<real> 370 </real>
+				<real> 509 </real>
+				<real> 426 </real>
+				<resource  external="18">  </resource>
+				<resource  external="19">  </resource>
+			</array>
+			<string> "version" </string>
+			<int> 2 </int>
+		</dictionary>
+
+	</main_resource>
+</resource_file>

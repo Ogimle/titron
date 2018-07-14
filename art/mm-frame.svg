@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg5516"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mm-frame.svg">
+  <defs
+     id="defs5518" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9429483"
+     inkscape:cx="362.85717"
+     inkscape:cy="575.33586"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5521">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#04a9d7;stroke-width:2.96566844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4907"
+       width="210.23358"
+       height="105.49404"
+       x="142.2639"
+       y="672.67041"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <rect
+       y="93.055916"
+       x="122.28686"
+       height="890.04114"
+       width="481.14062"
+       id="rect4833"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#04a9d7;stroke-width:3.96333551;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <rect
+       style="opacity:0.775;fill:none;fill-opacity:1;stroke:#04a9d7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4240"
+       width="219.07747"
+       height="104.28969"
+       x="252.7942"
+       y="538.32172"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#04a9d7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5165"
+       width="101.19129"
+       height="103.78542"
+       x="141.79478"
+       y="539.77478"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#04a9d7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 467.99166,514.84161 69.1251,-0.20592 -0.25986,-24.44846"
+       id="path5435"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <rect
+       y="500.93228"
+       x="218.06731"
+       height="26.694748"
+       width="250.64178"
+       id="rect5437"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#04a9d7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#04a9d7;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5449"
+       width="96.735703"
+       height="270.29724"
+       x="506.58759"
+       y="219.02849"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#04a9d7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 576.98962,219.43468 0.27158,-21.61742 -87.00767,0.0666"
+       id="path5453"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <rect
+       y="538.49908"
+       x="482.73309"
+       height="103.48297"
+       width="100.14274"
+       id="rect5473"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#04a9d7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <rect
+       y="807.84558"
+       x="142.14085"
+       height="104.69701"
+       width="209.99506"
+       id="rect5511"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#04a9d7;stroke-width:3.03594589;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#04a9d7;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4998"
+       width="441.68524"
+       height="25.4604"
+       x="142.17693"
+       y="938.01764"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4250"
+       d="m 373.25131,808.96124 0,103.61337"
+       style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#038bb1;stroke-width:1.38932812;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#038bb1;stroke-width:1.98555911;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 372.07193,807.71289 211.62733,0"
+       id="path4850"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#038bb1;stroke-width:1.97725964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 373.34066,912.8954 209.8619,0"
+       id="path4228"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#038bb1;stroke-width:1.38932812;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 583.25131,808.96124 0,103.61337"
+       id="path4244"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       y="807.7066"
+       x="373.05475"
+       height="105.49443"
+       width="210.23396"
+       id="rect4891"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#04a9d7;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4510"
+       d="m 217.78951,514.81233 -69.28546,-0.2054 0.26046,-24.38795"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#04a9d7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4516"
+       d="m 147.25376,219.5117 -0.19713,-21.76458 63.15483,0.067"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#04a9d7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4245"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'8514oem';-inkscape-font-specification:'8514oem';letter-spacing:0px;word-spacing:0px;fill:#53c0e0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(135.68188,-21.725866)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png"><flowRegion
+         id="flowRegion4247"><rect
+           id="rect4249"
+           width="406.96332"
+           height="171.02446"
+           x="78.646286"
+           y="116.0969"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'8514oem';-inkscape-font-specification:'8514oem';fill:#53c0e0;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4251"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:Micra;-inkscape-font-specification:Micra;fill:#53c0e0;fill-opacity:1">TITRON</flowPara></flowRoot>    <g
+       id="g4555"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(151.49938,6.9731043)"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4251"
+         d="m 73.147623,186.12676 0.0224,19.22934"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.46146166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.45615447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 115.22929,185.86761 0.0297,14.41579"
+         id="path4255"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 82.137313,186.26831 0.0439,9.61032"
+         id="path4259"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4261"
+         d="m 90.137687,186.26831 0.0439,9.61032"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 98.13806,186.26831 0.0439,9.61032"
+         id="path4263"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4265"
+         d="m 106.13843,186.26831 0.0439,9.61032"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4267"
+         d="m 124.13927,186.26831 0.0439,9.61032"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 132.13965,186.26831 0.0439,9.61032"
+         id="path4269"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4271"
+         d="m 140.14002,186.26831 0.0439,9.61032"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 148.1404,186.26831 0.0439,9.61032"
+         id="path4273"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.46146166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 157.15155,186.12676 0.0224,19.22934"
+         id="path4275"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4277"
+         d="m 199.23321,185.86761 0.0297,14.41579"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.45615447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4279"
+         d="m 166.14124,186.26831 0.0439,9.61032"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 174.14161,186.26831 0.0439,9.61032"
+         id="path4281"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4283"
+         d="m 182.14198,186.26831 0.0439,9.61032"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 190.14236,186.26831 0.0439,9.61032"
+         id="path4285"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 208.1432,186.26831 0.0439,9.61032"
+         id="path4287"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4289"
+         d="m 216.14357,186.26831 0.0439,9.61032"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 224.14395,186.26831 0.0439,9.61032"
+         id="path4291"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4293"
+         d="m 232.14432,186.26831 0.0439,9.61032"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4295"
+         d="m 241.15547,186.12676 0.0224,19.22934"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.46146166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4297"
+         d="m 283.23713,185.86761 0.0297,14.41579"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.45615447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4299"
+         d="m 250.14516,186.26831 0.0439,9.61032"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 258.14553,186.26831 0.0439,9.61032"
+         id="path4301"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4303"
+         d="m 266.14591,186.26831 0.0439,9.61032"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 274.14628,186.26831 0.0439,9.61032"
+         id="path4305"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 292.14712,186.26831 0.0439,9.61032"
+         id="path4307"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4309"
+         d="m 300.14749,186.26831 0.0439,9.61032"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 308.14787,186.26831 0.0439,9.61032"
+         id="path4311"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4313"
+         d="m 316.14824,186.26831 0.0439,9.61032"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4315"
+         d="m 325.15939,186.12676 0.0224,19.22934"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.46146166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5402"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(94.119466,8.1931243)"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4315-0"
+         d="m 48.51491,469.3698 19.22934,-0.0224"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.46146166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.45615447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.25576,427.28813 14.41579,-0.0297"
+         id="path4317-3"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.65646,460.38011 9.61032,-0.0439"
+         id="path4319-6"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4321-0"
+         d="m 48.65646,452.37973 9.61032,-0.0439"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.65646,444.37936 9.61032,-0.0439"
+         id="path4323-5"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4325-2"
+         d="m 48.65646,436.37899 9.61032,-0.0439"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4327-3"
+         d="m 48.65646,418.37815 9.61032,-0.0439"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.65646,410.37777 9.61032,-0.0439"
+         id="path4329-4"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4331-2"
+         d="m 48.65646,402.3774 9.61032,-0.0439"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.65646,394.37703 9.61032,-0.0439"
+         id="path4333-0"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.46146166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.51491,385.36587 19.22934,-0.0224"
+         id="path4335-0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4337-3"
+         d="m 48.25576,343.28813 14.41579,-0.0297"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.45615447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4339-1"
+         d="m 48.65646,376.38011 9.61032,-0.0439"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.65646,368.37973 9.61032,-0.0439"
+         id="path4341-5"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4343-0"
+         d="m 48.65646,360.37936 9.61032,-0.0439"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.65646,352.37899 9.61032,-0.0439"
+         id="path4345-4"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.65646,334.37815 9.61032,-0.0439"
+         id="path4347-2"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4349-0"
+         d="m 48.65646,326.37777 9.61032,-0.0439"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.65646,318.3774 9.61032,-0.0439"
+         id="path4351-4"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4353-7"
+         d="m 48.65646,310.37703 9.61032,-0.0439"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4355-0"
+         d="m 48.51491,301.36587 19.22934,-0.0224"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.46146166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.45615447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.25576,259.28813 14.41579,-0.0297"
+         id="path4358-7"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.65646,292.38011 9.61032,-0.0439"
+         id="path4360-1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4362-1"
+         d="m 48.65646,284.37973 9.61032,-0.0439"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.65646,276.37936 9.61032,-0.0439"
+         id="path4364-2"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4366-1"
+         d="m 48.65646,268.37899 9.61032,-0.0439"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4368-5"
+         d="m 48.65646,250.37815 9.61032,-0.0439"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.65646,242.37777 9.61032,-0.0439"
+         id="path4370-8"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4372-8"
+         d="m 48.65646,234.3774 9.61032,-0.0439"
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.44577765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.65646,226.37703 9.61032,-0.0439"
+         id="path4374-1"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#53c0e0;stroke-width:1.46146166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 48.51491,217.36587 19.22934,-0.0224"
+         id="path4376-0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#04a9d7;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 403.7763,778.10811 -30.48173,0.23985 0,-105.52807 30.20208,0"
+       id="path4711"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4729"
+       d="m 553.40126,778.29966 29.80852,0.24027 0,-105.71975 -29.53505,0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#04a9d7;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="D:\data\gamedev\godot\proj\titron_rc_test\scenes\main-menu\mm-frame.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
