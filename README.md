@@ -1,7 +1,7 @@
 # titron
 Project is RIP
 
-Меню с реализацией всяких приборов
+Меню с реализацией всяких приборов на движке Godot
 
 demo: https://www.youtube.com/watch?v=vY-ShufUx5I
 
